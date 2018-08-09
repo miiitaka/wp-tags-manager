@@ -1,1 +1,1 @@
-# wp-tags-manager
+# WordPress Tags Manager
